@@ -1,0 +1,6 @@
+@BilbakalimAPI_HostAddress = http://localhost:5201
+
+GET {{BilbakalimAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,459 @@
+
+[
+  {
+    "id": 1,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul hangi yılda Osmanlı Devleti tarafından fethedilmiştir?",
+    "mediaUrl": null,
+    "options": ["1453", "1071", "1517", "1526"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 2,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul'un fethinden sonra Ayasofya'ya eklenen mimari unsur hangisidir?",
+    "mediaUrl": null,
+    "options": ["Çan kulesi", "Minare", "Revak", "Sarnıç"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "cityId": "istanbul",
+    "questionText":
+      "Bizans döneminde İstanbul'un en büyük hipodromunun bulunduğu meydan hangisidir?",
+    "mediaUrl": null,
+    "options": ["Sultanahmet Meydanı", "Taksim Meydanı", "Beyazıt Meydanı", "Üsküdar Meydanı"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 4,
+    "cityId": "istanbul",
+    "questionText":
+      "Osmanlı döneminde Topkapı Sarayı'nın en önemli devlet organı toplantıları nerede yapılırdı?",
+    "mediaUrl": null,
+    "options": ["Divan-ı Hümayun", "Enderun Mektebi", "Harem", "Has Oda"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 5,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul'u iki kıtaya ayıran boğazın resmi adı nedir?",
+    "mediaUrl": null,
+    "options": ["Çanakkale Boğazı", "İstanbul Boğazı", "Haliç", "Kız Kulesi Boğazı"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "cityId": "istanbul",
+    "questionText":
+      "Haliç hangi su kütlesine açılır?",
+    "mediaUrl": null,
+    "options": ["Marmara Denizi", "Karadeniz", "Ege Denizi", "Van Gölü"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 7,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul'un en yüksek noktalarından biri olan tepe hangisidir?",
+    "mediaUrl": null,
+    "options": ["Yuşa Tepesi", "Çamlıca Tepesi", "Pierre Loti Tepesi", "Aydos Tepesi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "cityId": "istanbul",
+    "questionText":
+      "Simit, çay ve martı manzarası ile anılan İstanbul semti hangisidir?",
+    "mediaUrl": null,
+    "options": ["Bebek", "Karaköy", "Ortaköy", "Beşiktaş"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 9,
+    "cityId": "istanbul",
+    "questionText":
+      "Balık-ekmek ile meşhur bölge hangisidir?",
+    "mediaUrl": null,
+    "options": ["Kadıköy İskelesi", "Eminönü", "Moda Sahili", "Bakırköy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 10,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul'a özgü tarihi kapalı çarşı hangisidir?",
+    "mediaUrl": null,
+    "options": ["Mısır Çarşısı", "Arasta Çarşısı", "Grand Bazaar (Kapalıçarşı)", "Spice Market"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 11,
+    "cityId": "istanbul",
+    "questionText":
+      "Borsa İstanbul'un kısaltması nedir?",
+    "mediaUrl": null,
+    "options": ["BIST", "IMKB", "ISE", "ISTEX"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 12,
+    "cityId": "istanbul",
+    "questionText":
+      "İstanbul'un nüfus olarak Türkiye'deki sıralaması nedir?",
+    "mediaUrl": null,
+    "options": ["3.", "2.", "1.", "4."],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "cityId": "ankara",
+    "questionText":
+      "Türkiye Cumhuriyeti'nin başkenti Ankara ne zaman başkent ilan edilmiştir?",
+    "mediaUrl": null,
+    "options": ["23 Nisan 1920", "29 Ekim 1923", "13 Ekim 1923", "19 Mayıs 1919"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 14,
+    "cityId": "ankara",
+    "questionText":
+      "Anıtkabir hangi liderin anıt mezarıdır?",
+    "mediaUrl": null,
+    "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Kazım Karabekir", "Fevzi Çakmak"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 15,
+    "cityId": "ankara",
+    "questionText":
+      "Kurtuluş Savaşı'nda TBMM'nin açıldığı tarihi bina Ankara'nın hangi semtindedir?",
+    "mediaUrl": null,
+    "options": ["Ulus", "Kızılay", "Sıhhiye", "Bahçelievler"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 16,
+    "cityId": "ankara",
+    "questionText":
+      "Roma döneminden kalma Augustus Tapınağı ve Yazıtları Ankara'nın neresindedir?",
+    "mediaUrl": null,
+    "options": ["Sincan", "Altındağ", "Çankaya", "Etimesgut"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 17,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'nın denizden yüksekliği yaklaşık kaç metredir?",
+    "mediaUrl": null,
+    "options": ["200 m", "938 m", "1500 m", "50 m"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 18,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'yı hangi iki büyük akarsu havzası etkilemektedir?",
+    "mediaUrl": null,
+    "options": ["Fırat ve Dicle", "Kızılırmak ve Sakarya", "Gediz ve Büyük Menderes", "Meriç ve Ergene"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 19,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'nın batısında yer alan ve piknik alanlarıyla bilinen baraj hangisidir?",
+    "mediaUrl": null,
+    "options": ["Keban Barajı", "Hirfanlı Barajı", "Çamlıdere Barajı", "Atatürk Barajı"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 20,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'nın tescilli lezzetlerinden 'Ankara tava' hangi iki malzeme ile özdeşleşir?",
+    "mediaUrl": null,
+    "options": ["Pirinç ve kuzu eti", "Bulgur ve tavuk", "Makarna ve dana eti", "Nohut ve et suyu"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 21,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'nın simgesi olan hayvan hangisidir?",
+    "mediaUrl": null,
+    "options": ["Van kedisi", "Ankara keçisi", "Akbaş köpeği", "Kangal köpeği"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 22,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'da kültür ve sanat etkinliklerinin kalbi sayılan meydan/semt hangisidir?",
+    "mediaUrl": null,
+    "options": ["Kızılay", "Ulus", "Dikmen", "Gölbaşı"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 23,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara'da bulunan 'Türkiye Büyük Millet Meclisi' hangi görev için merkezdir?",
+    "mediaUrl": null,
+    "options": ["Yargı", "Yasama", "Yürütme", "Denetim"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "cityId": "ankara",
+    "questionText":
+      "Ankara ekonomisinde öne çıkan sektörlerden biri hangisidir?",
+    "mediaUrl": null,
+    "options": ["Petrol rafinerisi", "Ağır sanayi gemicilik", "Kamu yönetimi ve hizmet", "Deniz turizmi"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 25,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir'in antik dönemdeki adı hangisidir?",
+    "mediaUrl": null,
+    "options": ["Ephesus", "Smyrna", "Pergamon", "Halicarnassus"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 26,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir'in kurtuluşu hangi tarihte gerçekleşmiştir?",
+    "mediaUrl": null,
+    "options": ["9 Eylül 1922", "23 Nisan 1920", "29 Ekim 1923", "19 Mayıs 1919"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 27,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir'in simge yapılarından Saat Kulesi hangi meydandadır?",
+    "mediaUrl": null,
+    "options": ["Gündoğdu Meydanı", "Konak Meydanı", "Alsancak", "Bostanlı"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 28,
+    "cityId": "izmir",
+    "questionText":
+      "Antik Smyrna Agorası günümüzde İzmir'in hangi ilçesinde yer alır?",
+    "mediaUrl": null,
+    "options": ["Konak", "Bornova", "Karşıyaka", "Buca"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 29,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir Körfezi hangi denizin bir parçasıdır?",
+    "mediaUrl": null,
+    "options": ["Karadeniz", "Ege Denizi", "Marmara Denizi", "Akdeniz"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 30,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir'in popüler yarımadası ve şarap bağlarıyla bilinen bölgesi hangisidir?",
+    "mediaUrl": null,
+    "options": ["Urla Yarımadası", "Datça Yarımadası", "Kapıdağ Yarımadası", "Biga Yarımadası"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 31,
+    "cityId": "izmir",
+    "questionText":
+      "Çeşme ilçesi hangi doğal özelliğiyle özellikle rüzgâr sporları için uygundur?",
+    "mediaUrl": null,
+    "options": ["Düşük rüzgâr", "Yoğun kar", "Sürekli ve kuvvetli rüzgâr", "Yüksek rakım"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 32,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir'in meşhur gevreğine İstanbul'da ne ad verilir?",
+    "mediaUrl": null,
+    "options": ["Simit", "Açma", "Çörek", "Boyoz"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 33,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir mutfağının özgün ürünü 'boyoz' hangi mutfak kültüründen esinlenmiştir?",
+    "mediaUrl": null,
+    "options": ["Balkan", "Sefarad Yahudi", "Kafkas", "Arap"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 34,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir Enternasyonal Fuarı hangi parkta düzenlenir?",
+    "mediaUrl": null,
+    "options": ["Kültürpark", "Gündoğdu Parkı", "Mavişehir Parkı", "Bostanlı Sahil"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 35,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir Alsancak Limanı Türkiye'de hangi alan için önemlidir?",
+    "mediaUrl": null,
+    "options": ["Tarım sulaması", "Uluslararası yük ve yolcu taşımacılığı", "Balıkçılık", "Doğalgaz depolama"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 36,
+    "cityId": "izmir",
+    "questionText":
+      "İzmir ekonomisinde öne çıkan sektörlerden biri hangisidir?",
+    "mediaUrl": null,
+    "options": ["Otomobil montaj sanayi", "Tekstil ve gıda işleme", "Kömür madenciliği", "Ağır savaş sanayi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 37,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon'da bulunan Sümela Manastırı hangi uygarlık dönemine tarihlenir?",
+    "mediaUrl": null,
+    "options": ["Roma/Bizans", "Hitit", "Selçuklu", "Urartu"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 38,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon Osmanlı'ya hangi yüzyılda katılmıştır?",
+    "mediaUrl": null,
+    "options": ["13. yüzyıl", "15. yüzyıl", "17. yüzyıl", "19. yüzyıl"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 39,
+    "cityId": "trabzon",
+    "questionText":
+      "Fatih Sultan Mehmet'in Trabzon'u fethetmesi hangi stratejik amacı taşırdı?",
+    "mediaUrl": null,
+    "options": ["Ege'ye inmek", "Karadeniz ticaretini kontrol etmek", "Balkanları almak", "Mısır'a ulaşmak"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 40,
+    "cityId": "trabzon",
+    "questionText":
+      "Tarihi Trabzon Kalesi hangi doğal unsurlar üzerine kuruludur?",
+    "mediaUrl": null,
+    "options": ["Göl kıyısı", "Falez ve dere yatağı", "Çöl düzlükleri", "Volkanik plato"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 41,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon'un turistik yaylalarından Uzungöl hangi özelliği ile bilinir?",
+    "mediaUrl": null,
+    "options": ["Tuz gölü", "Heyelan set gölü", "Volkanik krater gölü", "Suni baraj gölü"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 42,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon kıyılarında görülen yağış rejimi en iyi nasıl tanımlanır?",
+    "mediaUrl": null,
+    "options": ["Yazları kurak", "Kışları aşırı kar", "Yıl boyu yağışlı", "İlkbahar dışında kurak"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 43,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon'un kıyı ile iç kesimler arasındaki ulaşımı zorlaştıran coğrafi unsur nedir?",
+    "mediaUrl": null,
+    "options": ["Çorak arazi", "Yüksek ve engebeli dağlar", "Geniş deltalar", "Volkanik lav akıntıları"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 44,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon mutfağında 'kuymak' veya 'muhlama' yapımında temel peynir nedir?",
+    "mediaUrl": null,
+    "options": ["Lor peyniri", "Trabzon peyniri/kolot", "Beyaz peynir", "Kaşar peyniri"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 45,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon'un ünlü ürünü 'Trabzon ekmeği' hangi özelliğiyle bilinir?",
+    "mediaUrl": null,
+    "options": ["Kepekli ve küçük", "Taş fırında, iri ve uzun süre bayatlamaz", "Sadece mısır unundan", "Mayasız ve ince"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 46,
+    "cityId": "trabzon",
+    "questionText":
+      "Karadeniz kültüründe yaygın bir halk dansı olan 'horon' hangi enstrüman eşliğinde ritim kazanır?",
+    "mediaUrl": null,
+    "options": ["Keman", "Kaval", "Kemençe", "Bağlama"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 47,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon ekonomisinde öne çıkan tarımsal ürün hangisidir?",
+    "mediaUrl": null,
+    "options": ["Pamuk", "Fındık", "Zeytin", "Buğday"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 48,
+    "cityId": "trabzon",
+    "questionText":
+      "Trabzon Limanı'nın Karadeniz ticaretindeki rolü en iyi nasıl tanımlanır?",
+    "mediaUrl": null,
+    "options": ["Küçük balıkçı barınağı", "Bölgesel aktarma ve ihracat kapısı", "Turistik yat limanı", "Sadece yolcu taşımacılığı"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 49,
+    "cityId": "ordu",
+    "questionText": "Ordu'nun en meşhur şelalesi hangisidir?",
+    "mediaUrl": null,
+    "options": ["Kurşunlu Şelalesi", "Çiseli Şelalesi", "Düden Şelalesi", "Manavgat Şelalesi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 50,
+    "cityId": "ordu",
+    "questionText": "Ordu'da bulunan ve şehri tepeden gören turistik yer neresidir?",
+    "mediaUrl": null,
+    "options": ["Boztepe", "Uludağ", "Erciyes", "Palandöken"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 51,
+    "cityId": "ordu",
+    "questionText": "Ordu hangi tarım ürünü ile ünlüdür?",
+    "mediaUrl": null,
+    "options": ["İncir", "Fındık", "Zeytin", "Kayısı"],
+    "correctAnswerIndex": 1
+  }
+]
